@@ -1,6 +1,2 @@
 /composer.lock
-/build/
-/src/autoload.php
-/src/Thrift/
-/src/ThriftGenerated/
 /vendor/
